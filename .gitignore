@@ -1,0 +1,5 @@
+# Local API keys and other secrets must stay on your computer.
+.env
+
+# Ruby editor tooling generates these files automatically.
+.ruby-lsp/
